@@ -30,7 +30,7 @@
 
 ## Pack
 
-- 10 (General Apex)
+- 10 (Genetic Apex)
 - 11 (char)
 - 12 (mewtw)
 - 13 (pika)
