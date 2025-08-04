@@ -638,17 +638,6 @@
 		"type": "no"
 	},
 	{
-		"id": 58,
-		"name": "Rattata",
-		"pack": 50,
-		"ex": 0,
-		"ability": 0,
-		"art": 0,
-		"level": 1,
-		"rarity": 1,
-		"type": "no"
-	},
-	{
 		"id": 59,
 		"name": "Raticate",
 		"pack": 50,

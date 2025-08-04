@@ -1245,7 +1245,7 @@
 	{
 		"id": 114,
 		"name": "Clefable",
-		"pack": 113,
+		"pack": 13,
 		"ex": 0,
 		"ability": 0,
 		"art": 0,
@@ -2233,6 +2233,17 @@
 		"type": "no"
 	},
 	{
+		"id": 204,
+		"name": "Tauros",
+		"pack": 11,
+		"ex": 0,
+		"ability": 0,
+		"art": 0,
+		"level": 1,
+		"rarity": 2,
+		"type": "no"
+	},
+	{
 		"id": 205,
 		"name": "Ditto",
 		"pack": 12,
@@ -2339,6 +2350,17 @@
 		"ability": 0,
 		"art": 0,
 		"level": 1,
+		"rarity": 1,
+		"type": "no"
+	},
+	{
+		"id": 215,
+		"name": "Dubwool",
+		"pack": 10,
+		"ex": 0,
+		"ability": 0,
+		"art": 0,
+		"level": 2,
 		"rarity": 1,
 		"type": "no"
 	},

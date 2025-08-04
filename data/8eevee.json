@@ -1003,7 +1003,7 @@
 	{
 		"id": 92,
 		"name": "Eevee",
-		"pack": 80,
+		0,
 		"ex": 1,
 		"ability": 1,
 		"art": 1,

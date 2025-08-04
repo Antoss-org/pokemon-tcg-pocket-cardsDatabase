@@ -924,6 +924,17 @@
 		"type": "ps"
 	},
 	{
+		"id": 85,
+		"name": "Unown",
+		"pack": 92,
+		"ex": 0,
+		"ability": 1,
+		"art": 0,
+		"level": 1,
+		"rarity": 3,
+		"type": "ps"
+	},
+	{
 		"id": 86,
 		"name": "Wobbuffet",
 		"pack": 92,

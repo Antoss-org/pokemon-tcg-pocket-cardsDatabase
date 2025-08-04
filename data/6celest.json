@@ -112,7 +112,7 @@
 	{
 		"id": 11,
 		"name": "Dartrix",
-		"pack": 60,
+		"pack": 61,
 		"ex": 0,
 		"ability": 0,
 		"art": 0,
@@ -123,7 +123,7 @@
 	{
 		"id": 12,
 		"name": "Decidueye",
-		"pack": 60,
+		"pack": 61,
 		"ex": 1,
 		"ability": 0,
 		"art": 0,
@@ -134,7 +134,7 @@
 	{
 		"id": 13,
 		"name": "Grubbin",
-		"pack": 60,
+		"pack": 61,
 		"ex": 0,
 		"ability": 0,
 		"art": 0,
@@ -167,7 +167,7 @@
 	{
 		"id": 16,
 		"name": "Morelull",
-		"pack": 60,
+		"pack": 61,
 		"ex": 0,
 		"ability": 0,
 		"art": 0,
@@ -178,7 +178,7 @@
 	{
 		"id": 17,
 		"name": "Shiinotic",
-		"pack": 60,
+		"pack": 61,
 		"ex": 0,
 		"ability": 0,
 		"art": 0,
@@ -1157,7 +1157,7 @@
 	{
 		"id": 106,
 		"name": "Alolan Rattata",
-		"pack": ??,
+		"pack": 61,
 		"ex": 0,
 		"ability": 0,
 		"art": 0,
@@ -1168,7 +1168,7 @@
 	{
 		"id": 107,
 		"name": "Alolan Raticate",
-		"pack": ??,
+		"pack": 61,
 		"ex": 0,
 		"ability": 0,
 		"art": 0,
@@ -1892,7 +1892,7 @@
 		"type": "fi"
 	},
 	{
-		"id": 172,
+		"id": 173,
 		"name": "Mudsdale",
 		"pack": 62,
 		"ex": 0,
